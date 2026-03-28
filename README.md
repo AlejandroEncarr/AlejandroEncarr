@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Alejandro Ramirez 👋
 
-<!--
-**AlejandroEncarr/AlejandroEncarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Software en la UCE (República Dominicana),
+enfocado en Data Analytics y Business Intelligence.
 
-Here are some ideas to get you started:
+## 🔍 En qué trabajo
+- Análisis de datos con SQL y Python
+- Dashboards e informes con Power BI
+- Limpieza y exploración de datos con Excel y Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas
+SQL · Python · Power BI · Excel · Google Sheets
+
+## 📚 Formación actual
+- Google Data Analytics Professional Certificate (en progreso)
+- Microsoft Python Development
+- Excel - Universitat Autònoma de Barcelona
+
+## 📫 Conéctate conmigo
+LinkedIn: https://www.linkedin.com/in/alejandroramirezrd/
